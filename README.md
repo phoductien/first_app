@@ -1,7 +1,8 @@
 # first_app
 
 A new Flutter project.
-![Uploading Result screen.png…]()
+<img width="1919" height="1079" alt="Result screen" src="https://github.com/user-attachments/assets/546ebc3b-ea55-4ccd-bb50-24f37893b832" />
+
 
 
 ## Getting Started
